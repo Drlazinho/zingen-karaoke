@@ -1,7 +1,6 @@
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-</p>
+  <a href="#-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Project</a>&nbsp;&nbsp;&nbsp;
 
 <br>
 
@@ -9,9 +8,9 @@
   <img alt="OriginSix" src=".github/zingen.png" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed using the following technologies:
 
 - HTML
 - CSS
@@ -21,10 +20,9 @@ Bibliotecas
 - [Google Fonts](https://fonts.google.com/)
 
 
-## 💻 Projeto
+## 💻 Project
 
-Zingen é uma página institucional no formato One Page, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Hero, Ferramentas, Sobre e Footer
-
+Zingen is a one-page institutional website, responsive and designed for various types of micro, small, and medium businesses. It includes the following sections: Header, Hero, Tools, About, and Footer.
 
 ## link
 https://zingen-karaoke-one.vercel.app/
